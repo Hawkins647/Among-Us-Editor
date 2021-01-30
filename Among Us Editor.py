@@ -8,6 +8,7 @@ root.resizable(0, 0)
 root.iconbitmap("au.ico")
 
 # Please add the location to the among us playerprefs file into the string below.
+# The typical windows path will be C:\Users\your_username\AppData\LocalLow\Innersloth\Among Us\playerprefs
 among_us_playerprefs_location = ""
 
 # Define fonts and colours
